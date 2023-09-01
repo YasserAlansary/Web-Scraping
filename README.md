@@ -17,7 +17,7 @@ Second teams, This dataset collects statistics on the top 100 teams in the world
 Last but not least, Players, This dataset collects data on the top 100 players in the world based on their rank, market worth, and matches, goals, assists, and other important information.
 <br />
 
-6- Homes:This is my first real estate project, and [Homes](https://www.homes.com/) is where I got the data for it. The information about each department includes the number of rooms, size in square feet, address, description of the department, and agent for each location. 
+6- Homes: This is my first real estate project, and [Homes](https://www.homes.com/) is where I got the data for it. The information about each department includes the number of rooms, size in square feet, address, description of the department, and agent for each location. 
 <br />
 
 # Data Sets:
