@@ -20,5 +20,9 @@ Last but not least, Players, This dataset collects data on the top 100 players i
 6- Homes: This is my first real estate project, and [Homes](https://www.homes.com/) is where I got the data for it. The information about each department includes the number of rooms, size in square feet, address, description of the department, and agent for each location. 
 <br />
 
+7- Amazon Products: In this project, I scraped [Amazon](https://www.amazon.com/) to collect data on products such as their name, rate, reviews, price, and description, among other things, to use in analysis projects and to assist anyone who wants to collect similar data for other purposes. 
+<br />
+
+
 # Data Sets:
 These data sets can be found here: [Kaggle](https://www.kaggle.com/yasseralansaryy)
